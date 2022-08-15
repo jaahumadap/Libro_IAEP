@@ -10,6 +10,7 @@ book:
     - intro.qmd
     - summary.qmd
     - references.qmd
+  cover-image: cover.png
 
 bibliography: references.bib
 
