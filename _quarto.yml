@@ -1,16 +1,17 @@
+lang: es
 project:
   type: book
 
 book:
   title: "Introducción a la Ecología de Poblaciones"
   author: "Jorge A. Ahumada"
-  date: "8/11/2022"
+  logo: owl_head.png
+  repo-url: https://github.com/jaahumadap/Libro_IAEP
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
-    - references.qmd
-  cover-image: cover.png
+    - Prefacio.qmd
+    - Introduccion.qmd
+  cover-image: owl.png
 
 bibliography: references.bib
 
