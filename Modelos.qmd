@@ -1,0 +1,18 @@
+# Modelos en Ecología
+
+## Qué es un modelo matemático?
+
+```{r}
+#| echo: false  
+library(ggplot2)
+data <- data.frame(x = c(7,10.5,15,20,25,29),
+                   y = c(53,99,146,199,300,380)
+                   )
+ggplot(data, aes(x = x, y = y)) +
+  geom_point()
+
+```
+
+$$
+O(t) = aT +b
+$$
