@@ -11,6 +11,12 @@ book:
     - index.qmd
     - Prefacio.qmd
     - Introduccion.qmd
+    - Modelos.qmd
+    - Ind_Pob_Dist.qmd
+    - Modelos1pob.qmd
+    - Poblacion_est_edades.qmd
+    - Modelos2pob.qmd
+    - Metapoblaciones.qmd
   cover-image: owl.png
 
 bibliography: references.bib
