@@ -1,6 +1,7 @@
 lang: es
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "Introducción a la Ecología de Poblaciones"
